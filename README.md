@@ -1,3 +1,5 @@
+<img width="1917" height="913" alt="Screenshot 2026-03-17 233428" src="https://github.com/user-attachments/assets/5b21cff4-47c6-48de-8653-55cdccd0aef1" />
+
 # HoneyTrap — Live Threat Intelligence Dashboard
 
 A professional honeypot + real-time dashboard built with Python and Flask.
